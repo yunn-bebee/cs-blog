@@ -1,14 +1,11 @@
 <div align="center">
-  <img src="https://github.com/yunn-bebee/cs-blog/main/assets/images/u.png" alt="CS-Blog Logo" width="200">
+  <img src="https://github.com/yunn-bebee/cs-blog/blob/main/assets/images/u.png" alt="CS-Blog Logo" width="200">
 </div>
 
 
 # CS-Blog
 
 A blog website where People can post articles about Computer Science, made with HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL.
-
-![GitHub](https://img.shields.io/github/license/your-username/cs-blog)
-![GitHub issues](https://img.shields.io/github/issues/your-username/cs-blog)
 
 ---
 
