@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yunn-bebee/cs-blog/blob/main/assets/u.png" alt="CS-Blog Logo" width="200">
+  <img src="https://github.com/yunn-bebee/cs-blog/main/assets/images/u.png" alt="CS-Blog Logo" width="200">
 </div>
 
 
