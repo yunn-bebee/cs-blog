@@ -1,3 +1,3 @@
 <footer>
-    <small>All rights reserved</small>
+    <small>  © All rights reserved</small>
 </footer>

@@ -19,6 +19,7 @@
     include("../config/db.php");
     include("../templates/header.php");
     include("../templates/blog-card.php");
+    include("../templates/footer.php");
     
    ?>
         <div class="container align-items-center justify-content-center m-auto mt-4 flex-column">

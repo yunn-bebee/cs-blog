@@ -16,6 +16,7 @@
     include("../templates/plagination.php");
     include("../templates/blog-card.php");
     include("../templates/categoriesbtn.php");
+    include("../templates/footer.php");
    ?>
     <div class="d-flex align-items-center justify-content-center m-3 text-center text-light">
         <div>

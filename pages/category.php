@@ -14,6 +14,7 @@
     include("../templates/header.php");
     include("../templates/plagination.php");
     include("../templates/blog-card.php");
+    include("../templates/footer.php");
    ?>
 <div class="blog container-fluid p-3 d-flex flex-wrap align-items-center justify-content-evenly">
 

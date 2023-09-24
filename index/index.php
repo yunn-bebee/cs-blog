@@ -13,7 +13,8 @@
 <?php 
     
     include("../config/db.php");
-    include("../templates/blog-card.php");
+    include("../templates/blog-card.php"); 
+    include("../templates/footer.php");
     if(!isset($_SESSION['id'])){ 
         session_start();
     
